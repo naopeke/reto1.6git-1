@@ -27,9 +27,9 @@
 <p>$ git checkout branch_name</p>
 
 
-<h1>GIT MERGE</h1>
+<h3>GIT MERGE</h3>
 <p>$ git checkout main<br>$ git merge new_branch_name</p>
 
-<h1>GIT IGNORE</h1>
+<h3>GIT IGNORE</h3>
 <p>$ touch .git ignore<br>$ git status<br>$ vi .gitignore</p>
 <p>shift:wq (write & quit</p>
